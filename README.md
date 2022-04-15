@@ -6,6 +6,8 @@ Participantes:
 Professor: Bruno Morgado
 ------------------------
 
+Trabalha com astrometria e dinâmica de Satélites Naturais e com os pequenos corpos do Sistema Solar.
+
 Aluna: Andreia Dourado
 ----------------------
 
