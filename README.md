@@ -14,6 +14,8 @@ Aluna: Andreia Dourado
 Aluno: Jonatã Arcas Silva
 -------------------------
 
+Tenho interesse em Astronomia de posição, procesamento de imagens para astrometria e boas práticas observacionais.
+
 Aluna: Júlia Camões
 -------------------
 
