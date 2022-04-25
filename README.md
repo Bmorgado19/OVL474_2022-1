@@ -22,3 +22,5 @@ Aluno: Thiago Laidler Vidal Cunha
 
 Aluna: Yasmin Coelho
 --------------------
+
+Tímida e triste. Trabalha com distribuição de massa em galáxias do universo local, com interesse particular na massa contida na componente barra.
